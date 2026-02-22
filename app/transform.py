@@ -1,4 +1,4 @@
-from app.msk import mask_email
+from app.mask import mask_email
 
 
 def transform_users(users):
